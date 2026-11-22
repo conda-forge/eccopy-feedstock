@@ -1,5 +1,5 @@
 context:
-  version: "1.0.1"
+  version: "1.1.0"
 
 package:
   name: eccopy
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/eccopy/eccopy-${{ version }}.tar.gz
-  sha256: 860a975f832dad0c22a0b7ada4e97b4c8c53b643733718cf99b3b0d1361aec04
+  sha256: ab21ccee30d7789f8a6874f98cfcaeff8c15d73e76bd610b67e6c31db72ee67c
 
 build:
   noarch: python
